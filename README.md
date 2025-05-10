@@ -21,17 +21,13 @@ This repository provides clear diagrams and educational materials illustrating:
 
 Compounding grows a present amount (`C₀`) into a future value (`Cₙ`) by applying interest (`i`) over time (`n` periods):
 
-\[
 C_n = C_0 \times (1 + i)^n
-\]
 
 ### ✅ Discounting
 
 Discounting determines the present value (`C₀`) of a future amount (`Cₙ`) by reversing the compounding operation:
 
-\[
 C_0 = \frac{C_n}{(1 + i)^n}
-\]
 
 ---
 
